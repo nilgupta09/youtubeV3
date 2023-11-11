@@ -1,5 +1,5 @@
 
-const ChannelDetail = () => {
+const ChannelDetail = ({channelDetail}) => {
     return(
         <div>ChannelDetail</div>
     )
